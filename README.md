@@ -1,15 +1,56 @@
-# Call Center Metrics Analysis & IVR Optimization
+# Stock Price Prediction & Market Trend Analysis
 
 ## Overview
-This project analyzes call center metrics such as **Average Handle Time (AHT)** and **Average Speed to Answer (AST)** to identify recurring issues and propose **IVR improvements**. The goal is to reduce agent intervention and optimize self-service options for common call reasons using **machine learning** and **NLP** (with **DistilBERT**).
+This project focuses on analyzing historical stock market data to identify price trends and support data-driven decision-making.  
+The system combines Machine Learning models with rule-based logic to compare prediction accuracy and improve interpretability.
+
+The project demonstrates skills in **data analysis, reporting, and insight generation**, which are essential for business planning and performance tracking.
+
+---
+
+## Business Objective
+- Analyze historical price data to identify trends and patterns  
+- Support decision-making using data-driven insights  
+- Compare predictive models to evaluate performance  
+- Present insights in a clear and visual manner for stakeholders  
+
+---
 
 ## Key Features
-- **Data Analysis**: Provides insights into AHT and AST during high-volume periods.
-- **Machine Learning**: Predicts `primary_call_reason` using **Random Forest** for call transcripts.
-- **IVR Improvements**: Proposes automation for frequent issues like **flight changes**, **seating preferences**, and **loyalty inquiries**.
+- Data cleaning and preprocessing of historical stock data  
+- Feature selection and trend analysis  
+- Machine Learning model implementation for price prediction  
+- Rule-based logic for comparison and validation  
+- Interactive visualizations for performance comparison  
+- CSV upload support for analyzing custom datasets  
 
-## Output
-- **Predictions**: The predicted call reasons are saved in test.csv.
-- **IVR Recommendations**: Proposes specific improvements to automate frequent call reasons and reduce agent intervention.
-## License
-This project is licensed under the MIT License.
+---
+
+## Tools & Technologies
+- Python  
+- Pandas, NumPy  
+- Matplotlib  
+- Jupyter Notebook  
+
+---
+
+## Outcomes & Learnings
+- Improved understanding of market behavior and trend analysis  
+- Developed skills in performance reporting and model evaluation  
+- Learned how data insights can support strategic and operational decisions  
+- Strengthened analytical thinking and presentation of results  
+
+---
+
+## Use Case Relevance
+This project is relevant for roles involving:
+- Market analysis  
+- Sales planning and forecasting  
+- Performance reporting  
+- Business intelligence and analytics  
+
+---
+
+## Author
+**Gurmej Singh**  
+B.Tech CSE | Data Analysis & Business Insights  
