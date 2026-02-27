@@ -1,4 +1,4 @@
-📞 Smart Call Center Optimization (AI & IVR)
+📞 Smart Call Center Optimization (IVR)
 
 📌 Project Overview
 
