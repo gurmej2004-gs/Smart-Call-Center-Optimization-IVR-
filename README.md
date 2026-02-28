@@ -1,5 +1,7 @@
 # 📞 Smart Call Center Optimization (IVR)
 
+> **Hackathon Project** | Data Analytics & AI-Driven IVR Optimization
+
 
 
 ## 📌 Project Overview
@@ -100,7 +102,32 @@ Smart-Call-Center-Optimization-IVR-/
 └── README.md                    # Project documentation
 ```
 
+---
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+```bash
+pip install pandas numpy matplotlib jupyter
+```
+
+### Run the Notebook
+
+```bash
+# Clone the repository
+git clone https://github.com/gurmej2004-gs/Smart-Call-Center-Optimization-IVR-.git
+cd Smart-Call-Center-Optimization-IVR-
+
+# Extract the datasets
+7z x callsf0d4f5a.7z
+unzip customers2afd6ea.zip
+
+# Launch Jupyter
+jupyter notebook "United Hackathon.ipynb"
+```
+
+---
 
 ## 🎓 Skills Demonstrated
 
@@ -115,10 +142,10 @@ Smart-Call-Center-Optimization-IVR-/
 ---
 
 
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
+
+⭐ *If you found this project helpful, please give it a star!*
