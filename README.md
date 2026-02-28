@@ -83,18 +83,15 @@ Data Cleaning & Preprocessing — Handled nulls, duplicates, and inconsistent fo
 
 
 📁 Project Structure
-
-
 Smart-Call-Center-Optimization-IVR-/
 │
-├── United Hackathon.ipynb       Main analysis notebook
-├── test.csv                     Test dataset
-├── callsf0d4f5a.7z              Calls dataset (compressed)
-├── customers2afd6ea.zip         Customer dataset (compressed)
-├── Gurmej Singh.pdf             Project report / presentation
-├── LICENSE                      MIT License
-└── README.md                    Project documentation
-
+├── United Hackathon.ipynb       # Main analysis notebook
+├── test.csv                     # Test dataset
+├── callsf0d4f5a.7z              # Calls dataset (compressed)
+├── customers2afd6ea.zip         # Customer dataset (compressed)
+├── Gurmej Singh.pdf             # Project report / presentation
+├── LICENSE                      # MIT License
+└── README.md                    # Project documentation
 
 🎓 Skills Demonstrated
 
