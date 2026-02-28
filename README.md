@@ -1,12 +1,14 @@
-📞 Smart Call Center Optimization (IVR)
-
-📌 Project Overview
-
-This project analyzes real-world call center performance data to identify operational inefficiencies, reduce customer wait times, and improve overall service quality. By leveraging data analysis and AI-driven insights, this project simulates how modern call centers can be optimized using Intelligent Virtual Response (IVR) systems and predictive analytics.
+# 📞 Smart Call Center Optimization (IVR)
 
 
 
-🎯 Business Problem
+## 📌 Project Overview
+
+This project analyzes **real-world call center performance data** to identify operational inefficiencies, reduce customer wait times, and improve overall service quality. By leveraging data analysis and AI-driven insights, this project simulates how modern call centers can be optimized using **Intelligent Virtual Response (IVR)** systems and predictive analytics.
+
+---
+
+## 🎯 Business Problem
 
 Call centers face several critical challenges:
 
@@ -17,10 +19,11 @@ Call centers face several critical challenges:
 | Inefficient call routing | Repeated customer complaints |
 | Lack of data-driven decisions | Poor resource allocation |
 
-Goal: Use data to uncover patterns and propose data-backed solutions to optimize call center operations.
+**Goal:** Use data to uncover patterns and propose data-backed solutions to optimize call center operations.
 
+---
 
-📂 Dataset
+## 📂 Dataset
 
 | File | Description |
 |---|---|
@@ -28,20 +31,20 @@ Goal: Use data to uncover patterns and propose data-backed solutions to optimize
 | `customers2afd6ea.zip` | Customer profile and interaction history |
 | `test.csv` | Test dataset for model/analysis validation |
 
+---
 
+## 🔍 Key Analysis Performed
 
-🔍 Key Analysis Performed
+- **Call Volume Analysis** — Peak hours, busiest days, seasonal patterns
+- **Customer Issue Classification** — Categorized call reasons to identify top complaints
+- **AHT & ASA Tracking** — Measured average handling and response times
+- **Agent Performance Metrics** — Identified high vs low-performing agents
+- **Repeat Call Analysis** — Found customers who called multiple times for the same issue
+- **Data Cleaning & Preprocessing** — Handled nulls, duplicates, and inconsistent formats
 
-Call Volume Analysis — Peak hours, busiest days, seasonal patterns
-Customer Issue Classification — Categorized call reasons to identify top complaints
-AHT & ASA Tracking — Measured average handling and response times
-Agent Performance Metrics — Identified high vs low-performing agents
-Repeat Call Analysis — Found customers who called multiple times for the same issue
-Data Cleaning & Preprocessing — Handled nulls, duplicates, and inconsistent formats
+---
 
-
-
-📊 Visualizations
+## 📊 Visualizations
 
 - 📈 Call volume trend over time
 - 🥧 Pie chart of call reason distribution
@@ -49,9 +52,9 @@ Data Cleaning & Preprocessing — Handled nulls, duplicates, and inconsistent fo
 - 🔥 Heatmap of peak call hours by day of week
 - 📉 AHT vs Customer Satisfaction correlation
 
+---
 
-
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -61,8 +64,9 @@ Data Cleaning & Preprocessing — Handled nulls, duplicates, and inconsistent fo
 | Matplotlib | Data visualization |
 | Jupyter Notebook | Interactive analysis environment |
 
+---
 
-💡 Key Insights & Findings
+## 💡 Key Insights & Findings
 
 - 📌 Top 3 call reasons accounted for **over 60% of total call volume**
 - ⏱️ Peak hours between **10 AM – 2 PM** had the highest wait times
@@ -70,9 +74,9 @@ Data Cleaning & Preprocessing — Handled nulls, duplicates, and inconsistent fo
 - 🤖 Automating top repeated queries via IVR could **reduce agent load by ~35%**
 - 🏆 Top-performing agents had **40% lower AHT** than the bottom quartile
 
+---
 
-
-✅ Outcomes & Business Impact
+## ✅ Outcomes & Business Impact
 
 - Identified key bottlenecks causing customer dissatisfaction
 - Proposed IVR automation for **top 5 most common call types**
@@ -80,9 +84,11 @@ Data Cleaning & Preprocessing — Handled nulls, duplicates, and inconsistent fo
 - Created performance benchmarks for agent evaluation
 - Insights can save an estimated **20–30% operational costs** if implemented
 
+---
 
+## 📁 Project Structure
 
-📁 Project Structure
+```
 Smart-Call-Center-Optimization-IVR-/
 │
 ├── United Hackathon.ipynb       # Main analysis notebook
@@ -92,8 +98,36 @@ Smart-Call-Center-Optimization-IVR-/
 ├── Gurmej Singh.pdf             # Project report / presentation
 ├── LICENSE                      # MIT License
 └── README.md                    # Project documentation
+```
 
-🎓 Skills Demonstrated
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+```bash
+pip install pandas numpy matplotlib jupyter
+```
+
+### Run the Notebook
+
+```bash
+# Clone the repository
+git clone https://github.com/gurmej2004-gs/Smart-Call-Center-Optimization-IVR-.git
+cd Smart-Call-Center-Optimization-IVR-
+
+# Extract the datasets
+7z x callsf0d4f5a.7z
+unzip customers2afd6ea.zip
+
+# Launch Jupyter
+jupyter notebook "United Hackathon.ipynb"
+```
+
+---
+
+## 🎓 Skills Demonstrated
 
 - ✅ Exploratory Data Analysis (EDA)
 - ✅ Data Cleaning & Preprocessing
@@ -103,6 +137,19 @@ Smart-Call-Center-Optimization-IVR-/
 - ✅ KPI Tracking (AHT, ASA, FCR)
 - ✅ Insight Communication for Business Decisions
 
-📄 License
+---
+
+## 👤 Author
+
+**Gurmej Singh**  
+🔗 GitHub: [@gurmej2004-gs](https://github.com/gurmej2004-gs)
+
+---
+
+## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+⭐ *If you found this project helpful, please give it a star!*
